@@ -23,7 +23,7 @@
 <img height=60px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> 
    </td>
     <td align="center" width="16.6%">
-<img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> 
    </td>
 </td>
  </tr>
