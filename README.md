@@ -15,7 +15,7 @@
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
 <td align="center" width="16.6%">
-<img height=60px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> 
 </td>
 </tr>
  <tr>
