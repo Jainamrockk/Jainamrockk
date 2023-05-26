@@ -32,7 +32,7 @@
 <img height=60px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> 
 </td>
 <td align="center" width="16.6%">
-<img height=60px src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"> 
 </td>
 </tr>
 </tbody>
