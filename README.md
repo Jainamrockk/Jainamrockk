@@ -42,10 +42,10 @@
 <tbody>
  <tr>
   <a href="https://github.com/Jainamrockk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloamj&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainamrockk&theme=radical" />
 </a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloamj&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=helloamj&&show_icons=true&theme=radical" alt="My Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainamrockk&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jainamrockk&&show_icons=true&theme=radical" alt="My Github Stats">
    </tr>
 </tbody>
 </table>
@@ -55,4 +55,4 @@
 
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/helloamj/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/Jainamrockk/count.svg)
