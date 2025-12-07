@@ -46,6 +46,8 @@
 </a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainamrockk&theme=radical" />
 <img align="center" src="https://streak-stats.demolab.com?user=jainamrockk&theme=dark&hide_border=true" alt="My Github Stats">
+ <img align="center" src="[](https://github-profile-trophy.vercel.app/?username=jainamrockk&theme=radical&no-frame=false&no-bg=false&margin-w=4)" alt="My Github Trophies">
+
    </tr>
 </tbody>
 </table>
