@@ -45,7 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainamrockk&theme=radical" />
 </a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainamrockk&theme=radical" />
-<img align="center" src="[https://github-readme-stats.vercel.app/api?username=Jainamrockk&&show_icons=true&theme=radical](https://streak-stats.demolab.com?user=jainamrockk&theme=dark&hide_border=true)" alt="My Github Stats">
+<img align="center" src="https://streak-stats.demolab.com?user=jainamrockk&theme=dark&hide_border=true" alt="My Github Stats">
    </tr>
 </tbody>
 </table>
